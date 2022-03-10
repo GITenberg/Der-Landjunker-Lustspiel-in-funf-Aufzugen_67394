@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '54251'
     url: http://www.gutenberg.org/2009/agents/54251
     wikipedia: https://de.wikipedia.org/wiki/Friedrich_Fiedler_(%C3%9Cbersetzer)
+covers:
+- cover_type: archival
+  image_path: 67394-h/images/cover.jpg
 creator:
   author:
     agent_name: Fonvizin, D. I. (Denis Ivanovich)
@@ -34,6 +37,8 @@ creator:
     - https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B2%D0%B8%D0%B7%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
     - https://en.wikipedia.org/wiki/Denis_Fonvizin
 description: 'Translation of: Недоросль [Nedoroslʹ].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67394#Der-Landjunker-Lustspiel-in-funf-Aufzugen
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67394'
